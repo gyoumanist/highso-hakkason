@@ -1,2 +1,2 @@
-# highso-hakkason
+# React-standard
 Created with CodeSandbox
